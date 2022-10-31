@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Start.unity
+    guid: 57df1e417250bc247976c2c0dc088efe
+  - enabled: 0
+    path: Assets/2DGamekit/Scenes/Zone1.unity
+    guid: a94cb8f134bf81349ad016c79b629e3d
+  - enabled: 0
+    path: Assets/2DGamekit/Scenes/Zone2.unity
+    guid: 5436c67e9267f17458b31fcdc20cd20a
+  - enabled: 0
+    path: Assets/2DGamekit/Scenes/Zone3.unity
+    guid: 4b4b0e246fc7dbb4295a38fd03241362
+  - enabled: 0
+    path: Assets/2DGamekit/Scenes/Zone4.unity
+    guid: 5b0c2d9ddd151ba489db19a4fb634327
+  - enabled: 0
+    path: Assets/2DGamekit/Scenes/Zone5.unity
+    guid: 960b12f881940d84983273421bebc695
+  - enabled: 1
+    path: Assets/Niveau01.unity
+    guid: 91b3a64677de28f4596791fe88442a87
+  - enabled: 1
+    path: Assets/Niveau02.unity
+    guid: cb65c0a4620a3304a827f290c1cb5e70
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/UIMenus.unity
+    guid: 705f1f73151a73046842d4e4ec8f514d
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/UI/Loading.unity
+    guid: ebc4647ff02971c4ba1b207af066be4d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/SceneTest.unity
+    guid: a24ada9c66a9c7c488dc5d26ed35dd0b
+  - enabled: 0
+    path: Assets/Scenes/Palier.unity
+    guid: c484985954742424794cb8258c2f45e2
+  - enabled: 0
+    path: Assets/NewScene.unity
+    guid: de1427f1061e85f40bf9c1bb1987fce1
+  - enabled: 1
+    path: Assets/Niveau03.unity
+    guid: 686adb0e2ebffdd46a955356eb660862
+  - enabled: 0
+    path: Assets/NiveauBoss.unity
+    guid: 1764f6b2ecc32724fbb857919e278007
+  - enabled: 1
+    path: Assets/Niveau04.unity
+    guid: eec0c2dabaf61274fafec3185b680939
+  m_configObjects: {}
